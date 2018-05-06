@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1525630637 source:c:\users\okok computers\desktop\classcomplex\main.cpp
+	<iostream>
+	"header.h"
+
+1525630672 c:\users\okok computers\desktop\classcomplex\header.h
+	<iostream>
+	<cmath>
+
